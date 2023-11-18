@@ -1,10 +1,7 @@
 - ## 👋 Hi, Welcome to my github profile
 - ## My name is Leandro Vinícius da Mata Silva
 - ## Currently learning C/C++, Python, C# and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ## As for now, I am learning about logic and tryind to develop a bot that consults prices of sneakers for mt girlfriend hahaha
+- ## 📫 How to reach me, e-mail: vini.damatta17@gmail.com
 
-<!---
-leandrodamata/leandrodamata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
